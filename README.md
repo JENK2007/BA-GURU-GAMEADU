@@ -41,4 +41,4 @@ To run this project locally, follow these steps:
 
 ## 📝 License
 
-This project is created for Ba Guru Game Adu. All rights reserved.
+This project is created  By Ba Guru Game . All rights reserved.
