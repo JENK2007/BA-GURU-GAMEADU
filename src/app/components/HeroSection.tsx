@@ -81,7 +81,7 @@ export default function HeroSection() {
           </h1>
 
           {/* Sub */}
-          <div className="mt-10 flex flex-col md:flex-row gap-10 items-start">
+          <div className="mt-24 flex flex-col md:flex-row gap-10 items-start">
             <p className="max-w-md text-lg text-muted-foreground leading-relaxed">
               The most electric arcade on the web.{' '}
               <span className="text-foreground font-semibold">No downloads.</span>{' '}
